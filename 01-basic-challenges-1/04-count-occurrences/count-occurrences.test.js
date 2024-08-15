@@ -1,4 +1,4 @@
-import { describe, it, expect, test, each } from "vitest";
+import { describe, it, expect, test } from "vitest";
 import { countOccurrences } from "./count-occurrences";
 
 describe("countOccurrences", () => {
